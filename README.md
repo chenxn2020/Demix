@@ -38,10 +38,10 @@ Please cite our paper if you use our model in your work:
 @inproceedings{Demix,
   title     = {Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding},
   author    = {Chen, Xiangnan and Zhang, Wen and Yao, Zhen and Chen, Mingyang and Tang, Siliang},
-  booktitle    = {{ISWC}},
-  series       = {Lecture Notes in Computer Science},
-  pages        = {253--270},
-  publisher    = {Springer},
-  year         = {2023}
+  booktitle = {{ISWC}},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {253--270},
+  publisher = {Springer},
+  year      = {2023}
 }
 ```
