@@ -28,6 +28,10 @@ bash ./script/run_transe_fb.sh
 The training process, validation results, and final test results will be printed and saved in the corresponding log file. After training, you can find training logs in ``./wandb``.
 We put the trained model state dicts in ``./output``.
 
+## Acknowledgment
+
+The repository benefits greatly from [NeuralKG](https://github.com/zjukg/NeuralKG). Thanks a lot for their excellent work.
+
 ## Citation
 Please cite our paper if you use our model in your work:
 ```latex
